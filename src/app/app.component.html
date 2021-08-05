@@ -1,0 +1,11 @@
+<div class="container">
+
+    <div class="dataContainer" *ngIf="!!stats">
+
+        <app-stats [stats]="stats"></app-stats>
+        <app-progression [stats]="stats"></app-progression>
+    </div>
+        <div *ngIf="!!stats">
+        <app-hintbox  class="dataContainer"></app-hintbox>
+        </div>
+</div>

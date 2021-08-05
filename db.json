@@ -1,0 +1,46 @@
+{
+  "progressionData": {
+    "manufacturer": "Intel®",
+    "brand": "Core™ i5-8265U",
+    "vendor": "GenuineIntel",
+    "family": "6",
+    "model": "142",
+    "stepping": "12",
+    "revision": "",
+    "voltage": "",
+    "speed": 1.6,
+    "speedMin": 1.6,
+    "speedMax": 1.8,
+    "governor": "",
+    "cores": 8,
+    "physicalCores": 4,
+    "processors": 1,
+    "socket": "BGA1528",
+    "flags": "de pse tsc msr mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe",
+    "virtualization": false,
+    "cache": {
+      "l1d": 0,
+      "l1i": 0,
+      "l2": 1048576,
+      "l3": 6291456
+    }
+  },
+  "Hints": [
+    {
+      "hint": "you should close unused programs to save system memory",
+      "id": 0
+    },
+    {
+      "hint": "keeping your computer in sleep mode is better that constantly turning it off",
+      "id": 1
+    },
+    {
+      "hint": "never hard shutdown your pc, it can damage components overtime",
+      "id": 2
+    },
+    {
+      "hint": " searching by %temp% will find missing temp files you might otherwise miss",
+      "id": 3
+    }
+  ]
+}
